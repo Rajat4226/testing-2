@@ -18,3 +18,12 @@ AI-powered Pull Request Review Agent
 - [ ] Learn branches
 - [ ] Create first pull request
 - [ ] Connect VS Code
+## Code Review Checklist
+
+Before merging a pull request, check:
+
+- [ ] Code follows project standards
+- [ ] No hardcoded API keys or passwords
+- [ ] Error handling is implemented
+- [ ] Tests are passing
+- [ ] Documentation is updated
